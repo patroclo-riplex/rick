@@ -1,0 +1,34 @@
+.personaje{
+    box-shadow: 4px 5px 8px 3px rgb(47, 189, 224);
+    display: flex;
+    width: 42%;
+    margin: 10px auto;
+}
+
+.personaje .imagen{
+    width: 50%; 
+}
+
+.personaje .infoPersonaje{
+    width: 50%; 
+    color: white;
+    font-size: 9px;
+}
+
+.personaje .imagen img{
+    width: 100%;
+}
+
+.vivo{
+    
+    color: rgb(7, 233, 7);
+}
+.muerto{
+    
+    color: rgb(243, 9, 9);
+}
+
+.desconocido{
+    
+    color: rgb(206, 196, 196);
+}

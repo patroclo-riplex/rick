@@ -1,0 +1,7 @@
+.busqueda form input {
+    width: 45%  ;
+}
+.busqueda form button {
+    background: rgb(245, 160, 4);
+    color: white;
+}
